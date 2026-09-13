@@ -17,7 +17,7 @@ while True:
     print("4 | Password - 10 characters - lowercase, uppercase and numbers")
     print("5 | URL-safe random text")
     print("6 | Alphanumeric password - custom length")
-    print("0 | Exit")
+    print("0 | Exit")   
 
     # Get the user's choice
     escolha = input("\nChoose an option: ")
